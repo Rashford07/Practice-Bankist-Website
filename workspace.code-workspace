@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\..\\..\\react-tuts"
+    },
+    {
+      "path": "..\\.."
+    },
+    {
+      "path": "..\\..\\..\\..\\Complete-javascript-course-master"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mycodes"
+  }
+}
